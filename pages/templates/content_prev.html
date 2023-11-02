@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+
+{% block extra_head_links %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/post.css' %}">
+{% endblock %}
+
+{% block content %}
+
+<div>
+    <h2 class="content_h1">
+        {{post.title}}
+    </h2>
+    <p class="content_p">
+        {{post.body}}
+    </p>
+
+    <img src="{{post.image.url}}" width="200" height="200" alt="">
+    <div class="action_div">
+<div class="edit_btn_div">
+    <a href="{% url 'post_edit' post.pk %}" class="edit_btn">Edit Post</a>
+</div>
+<div class="delete_btn_div">
+    <a href="{% url 'post_delete' post.pk %}" class="delete_btn">Delete Post</a>
+</div>
+</div>
+</div>
+
+{%endblock content%}

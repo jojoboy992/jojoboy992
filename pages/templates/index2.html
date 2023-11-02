@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        button {
+            background: blue;
+            color: white;
+            width: 80px;
+            height: 30px;
+            border: none;
+            border-radius: 10px;
+            cursor: pointer;
+        }
+
+        p {
+            color: green;
+        }
+
+        span {
+            color: red;
+        }
+    </style>
+</head>
+
+<body>
+
+    Hello there
+
+    {% if user.is_authenticated %} <p>You are logged in!</p>
+    {%else%}
+    <p style="color: black;">You are <span>not logged in!</span> please login</p>
+    <a href="http://127.0.0.1:8000/admin/login/?next=/admin/" target="_blank">
+        <button>login</button>
+    </a>
+
+    {% endif %}
+
+</body>
+
+</html>

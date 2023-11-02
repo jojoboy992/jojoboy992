@@ -1,0 +1,37 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+
+{% block extra_head_links %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/post.css' %}">
+{% endblock %}
+
+{% block content %}
+
+
+{% for post in object_list %}
+
+<div class="post_div2">
+
+    <h2>
+        <a href="{{post.id}}">{{ post.title }}</a>
+    </h2>
+    <a href="{{post.id}}">
+        <div class="post_img">
+            <img src="{{post.image.url}}" width="200" height="200" alt="">
+
+        </div>
+    </a>
+
+
+
+    <p>{{ post.body }}</p>
+</div>
+
+
+{% endfor %}
+
+
+
+{% endblock content %}

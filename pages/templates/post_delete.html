@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% load static %}
+
+{% block title %}
+  <title>Delete Post</title>
+  {% endblock %}
+{% block extra_head_links %}
+<link rel="stylesheet" type="text/css" href="{% static 'css/post.css' %}">
+{% endblock %}
+
+{% block a %}
+{% endblock %}
+
+{% block content %}
+
+<h1>Delete Post</h1>
+
+<form action="" method="post">
+    {% csrf_token %}
+    <p class="delete_p">Confirm delete <span class="delete_span">"{{post.title}}"</span>?</p>
+    <input type="submit" value="Delete" id="delete_post_btn" />
+</form>
+<a href="{% url 'home' %}">
+<button id="cancel_delete_post_btn" >Cancel</button>
+</a>
+
+{% endblock content %}
