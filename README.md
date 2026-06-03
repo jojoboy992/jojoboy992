@@ -12,15 +12,24 @@ I'm a **software developer** and a **Mechatronics Engineer major** with experien
 
 <h2>Connect With Me</h2>
 
-<p>Feel free to reach out if you'd like to collaborate on a project or discuss software development.</p>
+<p>
+  Feel free to reach out if you'd like to collaborate on a project or discuss software development.
+</p>
 
 <a href="https://www.tiktok.com/@joetexcoding">
-  <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" alt="TikTok" />
+  <img
+    src="https://img.shields.io/badge/@joetexcoding-TikTok-FF0050?style=social&logo=tiktok"
+    alt="TikTok"
+  />
 </a>
 
 <a href="https://www.instagram.com/joetex_coding/">
-  <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img
+    src="https://img.shields.io/badge/@joetex__coding-Instagram-E4405F?style=social&logo=instagram"
+    alt="Instagram"
+  />
 </a>
+
 ## Tech Stack
 
 ### Frontend
