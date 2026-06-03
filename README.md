@@ -49,7 +49,7 @@ Feel free to reach out if you'd like to collaborate on a project or discuss soft
 * Figma
 * Canva
 
-## Software and Apps I'm Proud to Have Worked On, their repos are pinned
+## Software and Apps I've Worked On, their repos are pinned
 
 ### JoNotify
 
