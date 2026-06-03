@@ -25,6 +25,8 @@ I'm a software developer and Mechatronics Engineering major who enjoys building 
 
 ## Connect With Me
 
+Feel free to reach out if you'd like to collaborate, discuss ideas, or work on interesting projects.
+
 <p align="left">
   <a href="https://www.tiktok.com/@joetexcoding">
     <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" />
@@ -34,8 +36,6 @@ I'm a software developer and Mechatronics Engineering major who enjoys building 
     <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-Feel free to reach out if you'd like to collaborate, discuss ideas, or work on interesting projects.
 
 ---
 
