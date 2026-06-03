@@ -1,33 +1,21 @@
-## Hi, I'm Joseph Edward
+## Hi there, I'm Joseph Edward 👋
 
-<p align="center">
-  <strong>Software Developer • Android Developer • Mechatronics Engineering Student</strong>
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Android_Developer-3DDC84?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mechatronics_Engineer-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graphic_Designer-8A2BE2?style=for-the-badge" />
 </p>
 
-<p align="center">
-Building practical software solutions, exploring AI, and creating user-focused experiences.
-</p>
+I'm a **Software Developer** and **Mechatronics Engineering Student** passionate about building practical software solutions that solve real-world problems.
+
+From Android applications to full-stack web platforms, I enjoy creating clean, scalable, and user-focused products while continuously learning new technologies.
 
 ---
 
-## About Me
+## 🌐 Connect With Me
 
-I'm a software developer and Mechatronics Engineering major who enjoys building applications that solve real-world problems.
-
-- Full-Stack Web Developer
-- Android Developer (Kotlin)
-- Graphic Designer & Video Editor
-- Passionate about Software Engineering and Product Development
-- Interested in AI, Machine Learning, and Emerging Technologies
-- Focused on creating clean, scalable, and user-friendly solutions
-
----
-
-## Connect With Me
-
-Feel free to reach out if you'd like to collaborate, discuss ideas, or work on interesting projects.
-
-<p align="left">
+<p>
   <a href="https://www.tiktok.com/@joetexcoding">
     <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" />
   </a>
@@ -39,50 +27,16 @@ Feel free to reach out if you'd like to collaborate, discuss ideas, or work on i
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack & Tools
 
-### Frontend
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### Mobile Development
-
-<p>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-34A853?style=for-the-badge&logo=android&logoColor=white" />
-</p>
-
-### Programming Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
+| Category | Skills & Technologies |
+|----------|----------------------|
+| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
+| **Database & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
+| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 ---
 
@@ -110,20 +64,28 @@ An online marketplace connecting buyers and sellers, allowing vendors to list pr
 
 ---
 
-## Currently Working On
+## 📚 Currently Learning
 
-- Building Android applications with Kotlin
-- Developing scalable web applications with Django
-- Learning Machine Learning and AI development
-- Experimenting with Large Language Models (LLMs)
-- Improving full-stack engineering skills
+- Machine Learning
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Advanced Android Development
+- Scalable Backend Architecture
 
 ---
 
-## Goals
+## 🎯 Goals
 
 - Build impactful software products
 - Contribute to open-source projects
 - Grow as a software engineer
 - Collaborate with developers worldwide
-- Create solutions that solve meaningful problems
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jojoboy992&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojoboy992&layout=compact&theme=tokyonight" />
+</p>
