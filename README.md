@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Android_Developer-3DDC84?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mechatronics_Engineer-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Co-founder_of_Joetak_Developers-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Co--Founder-Joetak_Developers-4F46E5?style=for-the-badge" />
 </p>
 
 I'm a **Software Developer** and **Mechatronics Engineering Student** passionate about building practical software solutions that solve real-world problems.
