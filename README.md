@@ -1,4 +1,3 @@
-```md
 ## Hi, I'm Joseph Edward
 
 <p align="center">
@@ -137,4 +136,3 @@ An online marketplace connecting buyers and sellers, allowing vendors to list pr
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=jojoboy992&show_icons=true&theme=tokyonight" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojoboy992&layout=compact&theme=tokyonight" />
 </p>
-```
