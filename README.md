@@ -1,33 +1,79 @@
-## Hi, I'm Joseph Edward
+## Hi, I'm Edward
 
-Software developer focused on building web and mobile applications.
+I'm a software developer with experience building web and mobile applications. I enjoy creating clean, functional, and user-friendly solutions while continuously learning and improving my skills.
+
+## About Me
+
+* Web Developer with experience in frontend and backend development
+* Android Developer using Kotlin
+* Passionate about building practical applications and solving real-world problems
+* Interested in software engineering, UI/UX, and product development
+* Graphic Designer and Video Editor
 
 ## Tech Stack
 
-* HTML, CSS, JavaScript, TypeScript
-* Python & Django
-* Kotlin (Android Development)
+### Frontend
+
+* HTML
+* CSS
+* JavaScript
+* TypeScript
+
+### Backend
+
+* Python
+* Django
+
+### Mobile Development
+
+* Kotlin (Android)
+
+### Programming Languages
+
+* Python
+* JavaScript
+* TypeScript
 * C++
-* Git & GitHub
-* Figma & Canva
 
-## What I'm Doing
+### Tools
 
-* Building web applications
-* Developing Android apps
-* Learning and improving my development skills
-* Working on personal projects
+* Git
+* GitHub
+* Figma
+* Canva
 
-## Interests
+## Software and Apps I'm Proud to Have Worked On
 
-* Software Development
-* Mobile Applications
-* UI/UX Design
-* Graphic Design
-* Video Editing
+### JoNotify
 
-## Open To
+An Android application that gives users control over which WhatsApp group messages they receive notifications for. Users can select specific groups and even choose particular members whose messages should trigger notifications.
 
-* Collaboration
-* Open-source contributions
-* Learning opportunities
+**Live Demo:** https://jonotify.netlify.app
+
+### Joetex
+
+A full-stack social media platform where users can create posts, interact with other users, send private messages, and maintain personalized profiles.
+
+**Live Demo:** https://joetex.onrender.com
+
+### NibaMart
+
+An online marketplace that connects buyers and sellers. Sellers can list products for sale, while buyers can browse available products and discover items from different vendors.
+
+## Currently Working On
+
+* Building web applications with Django
+* Developing Android applications with Kotlin
+* Expanding my full-stack development skills
+* Exploring new technologies and best practices
+
+## Goals
+
+* Build impactful software products
+* Contribute to open-source projects
+* Continuously improve as a developer
+* Collaborate with other developers and creators
+
+## Connect With Me
+
+Feel free to reach out if you'd like to collaborate on a project or discuss software development.
