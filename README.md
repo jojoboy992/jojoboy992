@@ -13,11 +13,11 @@
 
   <hr />
 
-  <h2>🌐 Connect With Me</h2>
-
+ <h2>🌐 Connect With Me</h2>
+  Feel free to reach out if you'd like to collaborate, discuss ideas, or work on interesting projects.
   <p>
-   <a href="https://www.linkedin.com/in/joseph-edward-b0a81b413">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    <a href="https://www.linkedin.com/in/joseph-edward-b0a81b413">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     <a href="https://www.tiktok.com/@joetexcoding">
       <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" />
