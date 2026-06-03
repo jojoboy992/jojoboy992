@@ -1,6 +1,6 @@
 ## Hi, I'm Joseph Edward
 
-I'm a software developer with experience building web and mobile applications. I enjoy creating clean, functional, and user-friendly solutions while continuously learning and improving my skills.
+I'm a **software developer** and a **Mechatronics Engineer major** with experience building web and mobile applications. I enjoy creating clean, functional, and user-friendly solutions while continuously learning and improving my skills.
 
 ## About Me
 
