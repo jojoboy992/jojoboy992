@@ -10,6 +10,13 @@ I'm a software developer with experience building web and mobile applications. I
 * Interested in software engineering, UI/UX, and product development
 * Graphic Designer and Video Editor
 
+## Connect With Me
+
+Feel free to reach out if you'd like to collaborate on a project or discuss software development.
+
+Phone Number: +2347047000769
+TikTok and IG: Joetex coding
+
 ## Tech Stack
 
 ### Frontend
@@ -46,7 +53,7 @@ I'm a software developer with experience building web and mobile applications. I
 
 ### JoNotify
 
-An Android application that gives users control over which WhatsApp group messages they receive notifications for. Users can select specific groups and even choose particular members whose messages should trigger notifications.
+An Android application that gives users control over which WhatsApp group chats they want to receive messages from, and who in those groups the messages should come from. Users can select specific groups and choose particular members in each group whose messages should come from.
 
 **Live Demo:** https://jonotify.netlify.app
 
@@ -75,7 +82,3 @@ An online marketplace that connects buyers and sellers. Sellers can list product
 * Contribute to open-source projects
 * Continuously improve as a developer
 * Collaborate with other developers and creators
-
-## Connect With Me
-
-Feel free to reach out if you'd like to collaborate on a project or discuss software development.
