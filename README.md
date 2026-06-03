@@ -14,8 +14,8 @@ I'm a software developer with experience building web and mobile applications. I
 
 Feel free to reach out if you'd like to collaborate on a project or discuss software development.
 
-Phone Number: +2347047000769
-TikTok and IG: Joetex coding
+* Phone Number: +2347047000769
+* TikTok and IG: Joetex coding
 
 ## Tech Stack
 
