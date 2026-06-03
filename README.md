@@ -18,14 +18,14 @@ I'm a **software developer** and a **Mechatronics Engineer major** with experien
 
 <a href="https://www.tiktok.com/@joetexcoding">
   <img
-    src="https://img.shields.io/badge/@joetexcoding-TikTok-FF0050?style=social&logo=tiktok"
+    src="https://img.shields.io/badge/TikTok-FF0050?style=for-the-badge&logo=tiktok&logoColor=white"
     alt="TikTok"
   />
 </a>
 
 <a href="https://www.instagram.com/joetex_coding/">
   <img
-    src="https://img.shields.io/badge/@joetex__coding-Instagram-E4405F?style=social&logo=instagram"
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
   />
 </a>
