@@ -15,7 +15,7 @@ I'm a **software developer** and a **Mechatronics Engineer major** with experien
 Feel free to reach out if you'd like to collaborate on a project or discuss software development.
 
 * Phone Number: +2347047000769
-* TikTok and IG: Joetex coding
+[![TikTok](https://shields.io)](https://www.tiktok.com/@joetexcoding)
 
 ## Tech Stack
 
