@@ -62,10 +62,12 @@ An online marketplace that connects buyers and sellers. Sellers can list product
 
 ## Currently Working On
 
+* Working with AI models and creating my own LLM's using Machine Learning
 * Building web applications with Django
 * Developing Android applications with Kotlin
 * Expanding my full-stack development skills
 * Exploring new technologies and best practices
+  
 
 ## Goals
 
