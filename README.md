@@ -14,7 +14,8 @@
   <hr />
 
  <h2>🌐 Connect With Me</h2>
-  Feel free to reach out if you'd like to collaborate, discuss ideas, or work on interesting projects.
+  <p>Feel free to reach out if you'd like to collaborate, discuss ideas, or work on interesting projects.</p>
+  
   <p>
    <a href="https://www.linkedin.com/in/joseph-edward-b0a81b413">
   <img src="./media/linkedin-badge.svg" height="28" />
