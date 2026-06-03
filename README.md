@@ -42,7 +42,7 @@ I'm a software developer with experience building web and mobile applications. I
 * Figma
 * Canva
 
-## Software and Apps I'm Proud to Have Worked On
+## Software and Apps I'm Proud to Have Worked On, their repos are pinned
 
 ### JoNotify
 
