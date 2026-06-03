@@ -21,8 +21,8 @@ I'm a software developer with experience building web and mobile applications. I
 
 ### Backend
 
-* Python
-* Django
+* Python(Django)
+* Firebase and Supabase
 
 ### Mobile Development
 
