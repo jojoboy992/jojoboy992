@@ -20,11 +20,11 @@
    <a href="https://www.linkedin.com/in/joseph-edward-b0a81b413">
   <img src="./media/linkedin-badge.svg" height="28" />
 </a>
-    <a href="https://www.tiktok.com/@joetexcoding">
-      <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" />
-    </a>
     <a href="https://www.instagram.com/joetex_coding/">
       <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+   <a href="https://www.tiktok.com/@joetexcoding">
+      <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" />
     </a>
   </p>
 
