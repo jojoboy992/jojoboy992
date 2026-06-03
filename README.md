@@ -1,82 +1,147 @@
-## Hi there, I'm Joseph Edward 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Joseph Edward - README</title>
+</head>
+<body>
 
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Android_Developer-3DDC84?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mechatronics_Engineer-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Co--Founder_of_Joetak_Developers-8A2BE2?style=for-the-badge" />
-</p>
+  <h2>Hi there, I'm Joseph Edward 👋</h2>
 
-I'm a **Software Developer** and **Mechatronics Engineering Student** passionate about building practical software solutions that solve real-world problems.
+  <p>
+    <img src="https://img.shields.io/badge/Full--Stack_Developer-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Android_Developer-3DDC84?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Mechatronics_Engineer-FF6B35?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Co--Founder_of_Joetak_Developers-8A2BE2?style=for-the-badge" />
+  </p>
 
-From Android applications to full-stack web platforms, I enjoy creating clean, scalable, and user-focused products while continuously learning new technologies.
+  <p>I'm a <strong>Software Developer</strong> and <strong>Mechatronics Engineering Student</strong> passionate about building practical software solutions that solve real-world problems.</p>
 
----
+  <p>From Android applications to full-stack web platforms, I enjoy creating clean, scalable, and user-focused products while continuously learning new technologies.</p>
 
-## 🌐 Connect With Me
+  <hr />
 
-<p>
-  <a href="https://www.tiktok.com/@joetexcoding">
-    <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" />
-  </a>
+  <h2>🌐 Connect With Me</h2>
 
-  <a href="https://www.instagram.com/joetex_coding/">
-    <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+  <p>
+    <a href="https://www.tiktok.com/@joetexcoding">
+      <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" />
+    </a>
+    <a href="https://www.instagram.com/joetex_coding/">
+      <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+  </p>
 
----
+  <hr />
 
-## 🛠️ Tech Stack & Tools
+  <h2>🛠️ Tech Stack &amp; Tools</h2>
 
-| Category | Skills & Technologies |
-|----------|----------------------|
-| **Frontend** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) |
-| **Database & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **Mobile** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+  <table>
+    <thead>
+      <tr>
+        <th>Category</th>
+        <th>Skills &amp; Technologies</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Frontend</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Backend</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Database &amp; Cloud</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Mobile</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+          <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Languages</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Tools</strong></td>
+        <td>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+        </td>
+      </tr>
+    </tbody>
+  </table>
 
----
+  <hr />
 
-## Featured Projects
+  <h2>Featured Projects</h2>
 
-### JoNotify
+  <h3>JoNotify</h3>
 
-An Android application that gives users control over which WhatsApp group chats they want to receive messages from, and who in those groups the messages should come from. Users can select specific groups and choose particular members in each group whose messages should come from.
+  <p>An Android application that gives users control over which WhatsApp group chats they want to receive messages from, and who in those groups the messages should come from. Users can select specific groups and choose particular members in each group whose messages should come from.</p>
 
-🌐 **Live Demo:** https://jonotify.netlify.app
+  <p>🌐 <strong>Live Demo:</strong> <a href="https://jonotify.netlify.app">https://jonotify.netlify.app</a></p>
 
----
+  <hr />
 
-### Joetex
+  <h3>Joetex</h3>
 
-A full-stack social platform where users can create posts, interact with others, send private messages, and manage personalized profiles.
+  <p>A full-stack social platform where users can create posts, interact with others, send private messages, and manage personalized profiles.</p>
 
-🌐 **Live Demo:** https://joetex.onrender.com
+  <p>🌐 <strong>Live Demo:</strong> <a href="https://joetex.onrender.com">https://joetex.onrender.com</a></p>
 
----
+  <hr />
 
-### NibaMart
+  <h3>NibaMart</h3>
 
-An online marketplace connecting buyers and sellers, allowing vendors to list products and customers to discover items from multiple stores.
+  <p>An online marketplace connecting buyers and sellers, allowing vendors to list products and customers to discover items from multiple stores.</p>
 
----
+  <hr />
 
-## 📚 Currently Learning
+  <h2>📚 Currently Learning</h2>
 
-- Machine Learning
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Advanced Android Development
-- Scalable Backend Architecture
+  <ul>
+    <li>Machine Learning</li>
+    <li>Artificial Intelligence</li>
+    <li>Large Language Models (LLMs)</li>
+    <li>Advanced Android Development</li>
+    <li>Scalable Backend Architecture</li>
+  </ul>
 
----
+  <hr />
 
-## 🎯 Goals
+  <h2>🎯 Goals</h2>
 
-- Build impactful software products
-- Contribute to open-source projects
-- Grow as a software engineer
-- Collaborate with developers worldwide
+  <ul>
+    <li>Build impactful software products</li>
+    <li>Contribute to open-source projects</li>
+    <li>Grow as a software engineer</li>
+    <li>Collaborate with developers worldwide</li>
+  </ul>
+
+</body>
+</html>
