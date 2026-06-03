@@ -10,12 +10,17 @@ I'm a **software developer** and a **Mechatronics Engineer major** with experien
 * Interested in software engineering, UI/UX, and product development
 * Graphic Designer and Video Editor
 
-## Connect With Me
+<h2>Connect With Me</h2>
 
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=00F2EA)](https://www.tiktok.com/@joetexcoding)
+<p>Feel free to reach out if you'd like to collaborate on a project or discuss software development.</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joetex_coding/)
+<a href="https://www.tiktok.com/@joetexcoding">
+  <img src="https://img.shields.io/badge/TikTok-111111?style=for-the-badge&logo=tiktok&logoColor=00F2EA" alt="TikTok" />
+</a>
 
+<a href="https://www.instagram.com/joetex_coding/">
+  <img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 ## Tech Stack
 
 ### Frontend
