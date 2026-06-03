@@ -12,11 +12,9 @@ I'm a **software developer** and a **Mechatronics Engineer major** with experien
 
 ## Connect With Me
 
-Feel free to reach out if you'd like to collaborate on a project or discuss software development.
+[![TikTok](https://img.shields.io/badge/TikTok-@joetexcoding-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joetexcoding)
 
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-black?logo=tiktok)](https://www.tiktok.com/@joetexcoding)
-
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/joetex_coding/)
+[![Instagram](https://img.shields.io/badge/Instagram-@joetex__coding-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joetex_coding/)
 
 ## Tech Stack
 
