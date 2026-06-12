@@ -108,7 +108,7 @@
 
   <p>An online marketplace connecting buyers and sellers, allowing vendors to list products and customers to discover items from multiple stores.</p>
 
-   <img src="./media/nibamart-preview.png" alt="NibaMart-img" width="200" />
+   <img src="./media/nibamart-preview.png" alt="NibaMart-img" width="500" />
   <p>🌐 <strong>Live Demo:</strong> <a href="https://impressive-sondra-joetex-c08d12f0.koyeb.app">https://impressive-sondra-joetex-c08d12f0.koyeb.app</a></p>
 
   <hr />
