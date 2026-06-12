@@ -117,7 +117,7 @@
 
   <p>A full-stack social platform where users can create posts, interact with others, send private messages, and manage personalized profiles.</p>
 
- <img src="./media/joetex-preview.png" alt="Joetex-img" width="200" />
+ <img src="./media/joetex-preview.png" alt="Joetex-img" width="350" />
   <p>🌐 <strong>Live Demo:</strong> <a href="https://joetex.onrender.com">https://joetex.onrender.com</a></p>
 
   <hr />
