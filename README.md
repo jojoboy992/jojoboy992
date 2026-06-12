@@ -99,7 +99,7 @@
 
   <p>An Android application that gives users control over which WhatsApp group chats they want to receive messages from, and who in those groups the messages should come from. Users can select specific groups and choose particular members in each group whose messages should come from.</p>
 
- <img src="./media/jonotify-preview.png" alt="JoNotify-img" width="200" />
+ <img src="./media/jonotify-preview.png" alt="JoNotify-img" width="300" />
   <p>🌐 <strong>Live Demo:</strong> <a href="https://jonotify.netlify.app">https://jonotify.netlify.app</a></p>
 
   <hr />
