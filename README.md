@@ -99,6 +99,7 @@
 
   <p>An Android application that gives users control over which WhatsApp group chats they want to receive messages from, and who in those groups the messages should come from. Users can select specific groups and choose particular members in each group whose messages should come from.</p>
 
+ <img src="./media/jonotify-preview.png" alt="JoNotify-img" width="700" />
   <p>🌐 <strong>Live Demo:</strong> <a href="https://jonotify.netlify.app">https://jonotify.netlify.app</a></p>
 
   <hr />
@@ -107,6 +108,7 @@
 
   <p>An online marketplace connecting buyers and sellers, allowing vendors to list products and customers to discover items from multiple stores.</p>
 
+   <img src="./media/nibamart-preview.png" alt="NibaMart-img" width="700" />
   <p>🌐 <strong>Live Demo:</strong> <a href="https://impressive-sondra-joetex-c08d12f0.koyeb.app">https://impressive-sondra-joetex-c08d12f0.koyeb.app</a></p>
 
   <hr />
@@ -115,6 +117,7 @@
 
   <p>A full-stack social platform where users can create posts, interact with others, send private messages, and manage personalized profiles.</p>
 
+ <img src="./media/joetex-preview.png" alt="Joetex-img" width="700" />
   <p>🌐 <strong>Live Demo:</strong> <a href="https://joetex.onrender.com">https://joetex.onrender.com</a></p>
 
   <hr />
