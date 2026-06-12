@@ -103,6 +103,14 @@
 
   <hr />
 
+<h3>NibaMart</h3>
+
+  <p>An online marketplace connecting buyers and sellers, allowing vendors to list products and customers to discover items from multiple stores.</p>
+
+  <p>🌐 <strong>Live Demo:</strong> <a href="https://impressive-sondra-joetex-c08d12f0.koyeb.app">https://joetex.onrender.com</a></p>
+
+  <hr />
+
   <h3>Joetex</h3>
 
   <p>A full-stack social platform where users can create posts, interact with others, send private messages, and manage personalized profiles.</p>
@@ -111,11 +119,6 @@
 
   <hr />
 
-  <h3>NibaMart</h3>
-
-  <p>An online marketplace connecting buyers and sellers, allowing vendors to list products and customers to discover items from multiple stores.</p>
-
-  <hr />
 
   <h2>📚 Currently Learning</h2>
 
